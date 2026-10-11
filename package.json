@@ -1,0 +1,24 @@
+{
+  "name": "byte-doppelguard-drp",
+  "version": "1.0.0",
+  "description": "DoppelGuard - AI-Powered Social & App Monitoring Platform by Fantastic Five",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node test_babel.js",
+    "audit": "node audit_requirements.js"
+  },
+  "keywords": [
+    "ai",
+    "digital-risk-protection",
+    "brand-protection",
+    "fantastic-five",
+    "cybersecurity"
+  ],
+  "author": "Fantastic Five",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
